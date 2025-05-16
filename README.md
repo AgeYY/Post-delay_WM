@@ -1,10 +1,7 @@
-# Beyond the Delay Neural Dynamics: a Decoding Strategy for Working Memory Error Reduction
-
+# The effects of the post-delay epochs on working memory error reduction
 
 ## Introduction
-This repository hosts the code accompanying the paper "Beyond the Delay Neural Dynamics: A Decoding Strategy for Working Memory Error Reduction," where we invesgated the influence of the decoding phase in reducing memory errors through the lens of artificial recurrent neural networks (RNNs).
-
-TODO: Some codes in this repository are redundant and not relevant to the paper.
+This repository hosts the code accompanying the paper "Beyond the Delay Neural Dynamics: A Decoding Strategy for Working Memory Error Reduction," (preprint, 10.1101/2022.06.01.494426) or the peer-reviewed version "The effects of the post-delay epochs on working memory error reduction" (10.1371/journal.pcbi.1013083) where we invesgated the influence of the decoding phase in reducing memory errors through the lens of artificial recurrent neural networks (RNNs).
 
 ## Repository Structure
 
@@ -66,12 +63,18 @@ For a deeper analysis of the neural dynamics and decoding strategy, refer to the
 ## Citation ##
 If our research supports or inspires your work, please consider citing it as follows:
 ``` bash
-@article{ye2023beyond,
-  title={Beyond the Delay Neural Dynamics: A Decoding Strategy for Working Memory Error Reduction},
-  author={Zeyuan Ye and Haoran Li and Liang Tian and Changsong Zhou},
-  year={2023},
-  note={Preprint on BioRxiv},
-  url={https://www.biorxiv.org/content/10.1101/2022.06.01.494426v3}
+@article{10.1371/journal.pcbi.1013083,
+    doi = {10.1371/journal.pcbi.1013083},
+    author = {Ye, Zeyuan AND Li, Haoran AND Tian, Liang AND Zhou, Changsong},
+    journal = {PLOS Computational Biology},
+    publisher = {Public Library of Science},
+    title = {The effects of the post-delay epochs on working memory error reduction},
+    year = {2025},
+    month = {05},
+    volume = {21},
+    url = {https://doi.org/10.1371/journal.pcbi.1013083},
+    pages = {1-29},
+    number = {5},
 }
 ```
 
